@@ -1,0 +1,41 @@
+.main {
+    text-align: center;
+    color: #121212
+}
+
+img {
+    width: 380px;
+}
+
+.border {
+    border: 3px solid #121212
+}
+
+.color {
+    color: #121212
+}
+
+p {
+    width: 380px;
+    font-style: italic;
+    display: block;
+    margin: 8px auto 25px auto;
+    font-size: 15px;
+}
+
+.interact {
+    display: block;
+    margin: 5px auto;
+    text-align: center;
+    padding: 6px;
+}
+
+input {
+    width: 182px;
+}
+
+button {
+    background-color: #121212;
+    color: white;
+    width: 200px;
+}
